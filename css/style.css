@@ -1,0 +1,22 @@
+header {
+  background-image: url(../img/かまぼこ板4.jpg);
+
+}
+
+.container {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  font-size: 18px;
+}
+
+header ul {
+  list-style-type: none;
+}
+
+header ul li {
+  display: inline-block;
+}
